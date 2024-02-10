@@ -16,3 +16,70 @@ FACULTAD DE INGENIERÍA ELECTRÓNICA Y TELECOMUNICACIONES
 PROGRAMA: INGENIERÍA DE SISTEMAS
 CURSO: REDES
 POPAYÁN, 2024
+
+
+
+Capítulo 1
+
+1.	Actividades:
+-	Jugar videojuegos
+-	Ver videos
+-	Usar redes sociales
+-	Leer novelas o mangas
+-	Revisar el correo electrónico
+
+2.	Factores:
+-	Ancho de banda
+-	Perdida de paquetes
+-	Congestión en la red
+-	Conversión de datos
+-	Medio de comunicación
+
+3.	Componentes clave:
+-	Router: dispositivo que enruta y dirige los paquetes de datos a su destino correcto.
+-	Switch: Un dispositivo que conecta múltiples dispositivos en una red local.
+-	Cableado estructurado: Incluye cables de cobre (como cables Ethernet) y fibra óptica que conectan dispositivos de red.
+-	Firewall: Un dispositivo o software que controla el tráfico de red entrante y saliente según un conjunto de reglas de seguridad predefinidas.
+-	Protocolos: Conjunto de reglas que dependiendo del protocolo tienen diferentes objetivos pero que convergen en permitir una comunicación fiable.
+
+4.	
+a.	Los datos son información que son procesados y transmitidos.
+b.	La red de datos es la conexión de dos o mas dispositivos para permitir la comunicación e intercambio de información.\
+c.	La arquitectura de red es la manera en como los dispositivos de red deben estar interconectados, como se gestionan y se comunican.
+d.	Una red convergente es una conexión que se encarga de manejar todo tipo de tráfico de datos.
+
+5.	
+a.	Tolerante a fallas: Que debe ser tolerante a fallas y ser capaz de continuar funcionando después de una. Por ejemplo, una red empresarial con configuraciones de routers y switches, si un enlace o dispositivo falla, la red puede automáticamente cambiar el tráfico a rutas alternativas sin interrumpir el servicio.
+b.	Escalabilidad: Que debe ser capaz de adaptarse y agregar recursos de manera eficiente. Por ejemplo, una red de datos la cual debe ser capaz de agregar nuevos servidores y dispositivos de almacenamiento según sea necesario, sin interrumpir los servicios existentes.
+c.	Calidad de servicio: Que debe ser capaz de garantizar un grado de rendimiento y fiabilidad. Por ejemplo, una aplicación móvil dedicada a llamadas en línea, la cual debe garantizar una comunicación lo mas clara y sin interrupciones posible.
+d.	Seguridad: Que debe implementar medidas para proteger los datos y los recursos. Por ejemplo, la implementación de firewalls, sistemas de detección de intrusiones y sistemas de prevención de intrusiones, la autenticación de usuarios, el cifrado de datos y la segmentación de la red también son componentes importantes de una arquitectura de red segura.
+
+6.	
+-	Redes Orientadas a la Conexión: En estas redes, se establece una conexión explícita entre el emisor y el receptor antes de la transmisión de datos. Se garantiza la entrega secuencial y confiable de los datos. Ejemplos incluyen redes telefónicas y circuitos virtuales.
+-	Redes No Orientadas a la Conexión: En estas redes, los datos se transmiten sin establecer una conexión previa entre el emisor y el receptor. No se garantiza la entrega secuencial ni confiable de los datos. Ejemplos incluyen redes IP y datagramas en Internet.
+
+7.	La calidad del servicio se refiere a la capacidad de una red para garantizar niveles predefinidos de rendimiento y fiabilidad para diferentes tipos de tráfico. Para mantener una buena calidad de servicio, se necesita:
+-	Ancho de banda adecuado.
+-	Control de congestión.
+-	Priorización de tráfico.
+-	Baja latencia y pérdida de paquetes.
+-	Gestión de la calidad de servicio.
+
+8.	La calidad del servicio es crucial en una red de datos porque garantiza que las aplicaciones y los servicios funcionen de manera eficiente y confiable. Sin calidad, las aplicaciones críticas, como la telefonía IP, videoconferencias y transmisión de datos en tiempo real, pueden experimentar problemas de rendimiento y degradación del servicio.
+
+9.	
+-	Tier-1: Son proveedores que tienen acceso a todo el tráfico de Internet sin necesidad de pagar peering a otros proveedores. Tienen una gran infraestructura global y suelen ser proveedores de tránsito para otros ISP.
+-	Tier-2: Son proveedores que compran ancho de banda a los Tier-1 o a otros Tier-2 y venden servicios de Internet a consumidores y empresas. No tienen acceso directo a todo el tráfico global de Internet.
+
+10.	
+-	Proveedores Mundiales: AT&T, CenturyLink, Telia.
+-	Proveedores Colombia: Claro, Movistar, ETB
+
+11.	Los proveedores de Internet son fundamentales para la conectividad global. Los Tier-1 son esenciales porque poseen la infraestructura y las rutas principales que conectan a Internet a nivel mundial. Los Tier-2 son importantes para la conectividad local y regional, extendiendo el acceso a Internet a consumidores y empresas. Juntos, facilitan la transmisión de datos a través de Internet y mantienen la conectividad global.
+
+12.	Los proveedores de Internet son fundamentales para el acceso global a Internet. La forma en que son gestionados y regulados impacta la equidad y la eficiencia del acceso:
+-	Equidad: La regulación puede determinar quién accede y en qué condiciones, generando disparidades.
+-	Neutralidad de la Red: Las políticas afectan si se trata a todos los datos por igual o se favorece cierto tráfico.
+-	Eficiencia: Las regulaciones influyen en la inversión en infraestructura y la gestión de costos, lo que puede reducir los precios para los usuarios.
+-	Innovación: Las políticas que fomentan la competencia y la apertura pueden estimular la innovación y el desarrollo de nuevos servicios y aplicaciones.
+
