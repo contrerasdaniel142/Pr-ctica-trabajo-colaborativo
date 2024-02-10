@@ -83,3 +83,35 @@ d.	Seguridad: Que debe implementar medidas para proteger los datos y los recurso
 -	Eficiencia: Las regulaciones influyen en la inversión en infraestructura y la gestión de costos, lo que puede reducir los precios para los usuarios.
 -	Innovación: Las políticas que fomentan la competencia y la apertura pueden estimular la innovación y el desarrollo de nuevos servicios y aplicaciones.
 
+
+
+
+Capítulo 2
+
+1.	La combinación de dispositivos, medios de transmisión y servicios en una red permite que los usuarios se comuniquen y compartan recursos de manera efectiva.
+-	Dispositivos: Como routers, switches, computadoras, servidores, impresoras, entre otros.
+-	Medios de transmisión: Como cables de cobre, fibra óptica, ondas de radio, utilizados para la comunicación entre dispositivos.
+-	Servicios: Tales como DHCP (Protocolo de Configuración Dinámica de Host), DNS (Sistema de Nombres de Dominio), y servicios de seguridad como firewalls y sistemas de detección de intrusiones.
+
+2.	Una red es un conjunto de dispositivos interconectados para compartir recursos, mientras que una LAN (Red de Área Local) se limita a una ubicación geográfica específica, como una casa, oficina o edificio. En contraste, una WAN (Red de Área Amplia) cubre un área geográfica más grande, como una ciudad o país. Por otro lado, un internetwork es la conexión de múltiples redes individuales para permitir la comunicación entre ellas, y Internet es la red global de redes interconectadas que utiliza el protocolo de Internet (IP) para la comunicación a nivel mundial.
+
+3.	La diferencia fundamental entre internetwork e Internet radica en su alcance y función. Un internetwork se refiere a la interconexión de múltiples redes individuales para permitir la comunicación entre ellas, mientras que Internet es la red global de redes interconectadas que utiliza el protocolo de Internet (IP) para la comunicación a nivel mundial.
+
+4.	Una Tarjeta de Interfaz de Red (NIC) es un dispositivo de hardware que permite que una computadora se conecte a una red, mientras que un puerto físico es el punto de conexión física en un dispositivo de red, como un switch o un router, donde se conecta un cable de red. Por otro lado, una interfaz de red es la interfaz lógica que permite la comunicación entre un dispositivo y la red, generalmente asociada con una dirección IP.
+
+5.	Un protocolo es independiente de la tecnología porque especifica cómo deben comunicarse los dispositivos, pero no dicta el medio o la tecnología utilizada para la comunicación. En otras palabras, los protocolos establecen reglas y formatos de comunicación que son independientes de los detalles técnicos específicos de los dispositivos o medios utilizados para transmitir los datos.
+
+6.	Una Unidad de Datos del Protocolo (PDU) es una entidad de datos utilizada en las comunicaciones de red. En el modelo OSI, la PDU varía según la capa, desde segmentos en la capa de transporte hasta bits en la capa física. La PDU encapsula los datos a medida que atraviesan las diferentes capas del modelo, agregando encabezados y, en algunos casos, trailers, para permitir la comunicación entre dispositivos de red.
+
+7.	Los protocolos definen reglas para la comunicación entre dispositivos, mientras que el proceso de encapsulamiento de datos implica que cada capa del modelo TCP/IP agrega su propia información a los datos. En cada capa del modelo, los datos se encapsulan en una PDU específica, como segmentos en la capa de transporte, datagramas en la capa de red y tramas en la capa de enlace de datos.
+ 
+-	Datos: En la capa superior, indicando los datos originales.
+-	Segmento: Los datos se convierten en un segmento después del primer nivel de encapsulamiento.
+-	Paquete: El segmento se convierte en un paquete tras otro nivel adicional de encapsulamiento.
+-	Trama (dependiente del medio): El paquete se convierte finalmente en una trama antes de ser transmitido como bits.
+-	Bits: Representados por una secuencia binaria al final del proceso, listos para ser transmitidos a través del medio físico (representado por una nube).
+
+8.	Los modelos de protocolo definen reglas específicas para la comunicación entre dispositivos, mientras que los modelos de referencia, como el modelo OSI y el modelo TCP/IP, son marcos conceptuales que dividen las funciones de red en capas lógicas. Los modelos de referencia proporcionan una estructura para entender cómo funciona la comunicación en red, mientras que los modelos de protocolo especifican los detalles de implementación de los protocolos.
+
+9.	En el modelo OSI, cada capa tiene una función específica, desde la transmisión física de bits en la capa física hasta la provisión de servicios de red a las aplicaciones en la capa de aplicación. En el modelo TCP/IP, las capas son similares en función, pero se agrupan de manera diferente: la capa de acceso a la red, la capa de Internet, la capa de transporte y la capa de aplicación. Cada capa proporciona servicios y funcionalidades específicas para la comunicación de red.
+
